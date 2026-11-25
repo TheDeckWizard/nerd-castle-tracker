@@ -1,0 +1,444 @@
+{
+ "ts": "2026-11-25T11:10:31-0500",
+ "source": "existing",
+ "cards": 35776,
+ "owned_nonzero": 6454,
+ "in_decks": 4040,
+ "tested": 3453,
+ "shard_size": 500,
+ "shards": [
+  {
+   "file": "s000.json",
+   "count": 500,
+   "from": "\"Ach! Hans, Run!\"",
+   "to": "Ainok Strike Leader"
+  },
+  {
+   "file": "s001.json",
+   "count": 500,
+   "from": "Ainok Survivalist",
+   "to": "Angelic Gift"
+  },
+  {
+   "file": "s002.json",
+   "count": 500,
+   "from": "Angelic Guardian",
+   "to": "Armory Automaton"
+  },
+  {
+   "file": "s003.json",
+   "count": 500,
+   "from": "Armory Guard",
+   "to": "Awesome Presence"
+  },
+  {
+   "file": "s004.json",
+   "count": 500,
+   "from": "Awestruck Cygnet",
+   "to": "Beanstalk Giant // Fertile Footsteps"
+  },
+  {
+   "file": "s005.json",
+   "count": 500,
+   "from": "Beanstalk Wurm // Plant Beans",
+   "to": "Blighted Woodland"
+  },
+  {
+   "file": "s006.json",
+   "count": 500,
+   "from": "Blightning",
+   "to": "Born to Drive"
+  },
+  {
+   "file": "s007.json",
+   "count": 500,
+   "from": "Borne Upon a Wind",
+   "to": "Burn Bright"
+  },
+  {
+   "file": "s008.json",
+   "count": 500,
+   "from": "Burn Down the House",
+   "to": "Cat Warriors"
+  },
+  {
+   "file": "s009.json",
+   "count": 500,
+   "from": "Cat-Gator",
+   "to": "Chime of Night"
+  },
+  {
+   "file": "s010.json",
+   "count": 500,
+   "from": "Chimeric Coils",
+   "to": "Collective Brutality"
+  },
+  {
+   "file": "s011.json",
+   "count": 500,
+   "from": "Collective Defiance",
+   "to": "Courageous"
+  },
+  {
+   "file": "s012.json",
+   "count": 500,
+   "from": "Courageous Goblin",
+   "to": "Cursed Scroll"
+  },
+  {
+   "file": "s013.json",
+   "count": 500,
+   "from": "Cursed Totem",
+   "to": "Deathbloom Thallid"
+  },
+  {
+   "file": "s014.json",
+   "count": 500,
+   "from": "Deathbonnet Sprout // Deathbonnet Hulk",
+   "to": "Diamond Faerie"
+  },
+  {
+   "file": "s015.json",
+   "count": 500,
+   "from": "Diamond Faerie Avatar",
+   "to": "Draconic Intervention"
+  },
+  {
+   "file": "s016.json",
+   "count": 500,
+   "from": "Draconic Lore",
+   "to": "Dwarven Hold"
+  },
+  {
+   "file": "s017.json",
+   "count": 500,
+   "from": "Dwarven Landslide",
+   "to": "Ember Gale"
+  },
+  {
+   "file": "s018.json",
+   "count": 500,
+   "from": "Ember Hauler",
+   "to": "Etherium Astrolabe"
+  },
+  {
+   "file": "s019.json",
+   "count": 500,
+   "from": "Etherium Pteramander",
+   "to": "Fangren Marauder"
+  },
+  {
+   "file": "s020.json",
+   "count": 500,
+   "from": "Fangren Pathcutter",
+   "to": "Firebolt"
+  },
+  {
+   "file": "s021.json",
+   "count": 500,
+   "from": "Fireborn Knight",
+   "to": "Fork"
+  },
+  {
+   "file": "s022.json",
+   "count": 500,
+   "from": "Fork in the Road",
+   "to": "Garbage Elemental"
+  },
+  {
+   "file": "s023.json",
+   "count": 500,
+   "from": "Garbage Elemental",
+   "to": "Gimbal, Gremlin Prodigy"
+  },
+  {
+   "file": "s024.json",
+   "count": 500,
+   "from": "Gimli of the Glittering Caves",
+   "to": "Godo's Irregulars"
+  },
+  {
+   "file": "s025.json",
+   "count": 500,
+   "from": "Godo, Bandit Warlord",
+   "to": "Grixis Illusionist"
+  },
+  {
+   "file": "s026.json",
+   "count": 500,
+   "from": "Grixis Panorama",
+   "to": "Harvest Gwyllion"
+  },
+  {
+   "file": "s027.json",
+   "count": 500,
+   "from": "Harvest Hand // Scrounged Scythe",
+   "to": "High-Rise Sawjack"
+  },
+  {
+   "file": "s028.json",
+   "count": 500,
+   "from": "High-Society Hunter",
+   "to": "Hydroponics Architect"
+  },
+  {
+   "file": "s029.json",
+   "count": 500,
+   "from": "Hydrosurge",
+   "to": "Infirmary Healer // Stream of Life"
+  },
+  {
+   "file": "s030.json",
+   "count": 500,
+   "from": "Inflame",
+   "to": "Jabari's Influence"
+  },
+  {
+   "file": "s031.json",
+   "count": 500,
+   "from": "Jabs, Mistress of Mockery",
+   "to": "Kami of the Palace Fields"
+  },
+  {
+   "file": "s032.json",
+   "count": 500,
+   "from": "Kami of the Tended Garden",
+   "to": "Kjeldoran Phalanx"
+  },
+  {
+   "file": "s033.json",
+   "count": 500,
+   "from": "Kjeldoran Pride",
+   "to": "Lashwrithe"
+  },
+  {
+   "file": "s034.json",
+   "count": 500,
+   "from": "Lassoed by the Law",
+   "to": "Linvala, Shield of Sea Gate"
+  },
+  {
+   "file": "s035.json",
+   "count": 500,
+   "from": "Linvala, the Preserver",
+   "to": "Mabel, Valley Hero"
+  },
+  {
+   "file": "s036.json",
+   "count": 500,
+   "from": "Macabre Mockery",
+   "to": "Martyr for the Cause"
+  },
+  {
+   "file": "s037.json",
+   "count": 500,
+   "from": "Martyr of Ashes",
+   "to": "Might of Alara"
+  },
+  {
+   "file": "s038.json",
+   "count": 500,
+   "from": "Might of Murasa",
+   "to": "Molten Blast"
+  },
+  {
+   "file": "s039.json",
+   "count": 500,
+   "from": "Molten Collapse",
+   "to": "Myr Retriever"
+  },
+  {
+   "file": "s040.json",
+   "count": 500,
+   "from": "Myr Scrapling",
+   "to": "Night of Souls' Betrayal"
+  },
+  {
+   "file": "s041.json",
+   "count": 500,
+   "from": "Night of the Flying Merfolk",
+   "to": "Oculus Whelp"
+  },
+  {
+   "file": "s042.json",
+   "count": 500,
+   "from": "Oddly Uneven",
+   "to": "Outland Boar"
+  },
+  {
+   "file": "s043.json",
+   "count": 500,
+   "from": "Outland Colossus",
+   "to": "Person of Interest"
+  },
+  {
+   "file": "s044.json",
+   "count": 500,
+   "from": "Personal Decoy",
+   "to": "Pointy Finger of Doom"
+  },
+  {
+   "file": "s045.json",
+   "count": 500,
+   "from": "Poised Practitioner",
+   "to": "Prowling Pangolin"
+  },
+  {
+   "file": "s046.json",
+   "count": 500,
+   "from": "Prowling Serpopard",
+   "to": "Rain of Rust"
+  },
+  {
+   "file": "s047.json",
+   "count": 500,
+   "from": "Rain of Salt",
+   "to": "Recommission"
+  },
+  {
+   "file": "s048.json",
+   "count": 500,
+   "from": "Recon Craft Theta",
+   "to": "Reweave"
+  },
+  {
+   "file": "s049.json",
+   "count": 500,
+   "from": "Rewind",
+   "to": "Roots of Life"
+  },
+  {
+   "file": "s050.json",
+   "count": 500,
+   "from": "Roots of Wisdom",
+   "to": "Sanar, Unfinished Genius // Wild Idea"
+  },
+  {
+   "file": "s051.json",
+   "count": 500,
+   "from": "Sanctified Charge",
+   "to": "Screaming Shield"
+  },
+  {
+   "file": "s052.json",
+   "count": 500,
+   "from": "Screaming Swarm",
+   "to": "Setessan Griffin"
+  },
+  {
+   "file": "s053.json",
+   "count": 500,
+   "from": "Setessan Oathsworn",
+   "to": "Sibilant Spirit"
+  },
+  {
+   "file": "s054.json",
+   "count": 500,
+   "from": "Sibling Rivalry",
+   "to": "Skyknight Vanguard"
+  },
+  {
+   "file": "s055.json",
+   "count": 500,
+   "from": "Skylasher",
+   "to": "Soratami Mindsweeper"
+  },
+  {
+   "file": "s056.json",
+   "count": 500,
+   "from": "Soratami Mirror-Guard",
+   "to": "Spire Mechcycle"
+  },
+  {
+   "file": "s057.json",
+   "count": 500,
+   "from": "Spire Monitor",
+   "to": "Steppe Glider"
+  },
+  {
+   "file": "s058.json",
+   "count": 500,
+   "from": "Steppe Lynx",
+   "to": "Summer Bloom"
+  },
+  {
+   "file": "s059.json",
+   "count": 500,
+   "from": "Summit Apes",
+   "to": "Systems Override"
+  },
+  {
+   "file": "s060.json",
+   "count": 500,
+   "from": "Sythis, Harvest's Hand",
+   "to": "Ten Wizards Mountain"
+  },
+  {
+   "file": "s061.json",
+   "count": 500,
+   "from": "Tenacious",
+   "to": "The Legend of Kyoshi // Avatar Kyoshi"
+  },
+  {
+   "file": "s062.json",
+   "count": 500,
+   "from": "The Legend of Roku // Avatar Roku",
+   "to": "Threadbind Clique // Rip the Seams"
+  },
+  {
+   "file": "s063.json",
+   "count": 500,
+   "from": "Threads of Disloyalty",
+   "to": "Tornado"
+  },
+  {
+   "file": "s064.json",
+   "count": 500,
+   "from": "Tornado Elemental",
+   "to": "Turbo-Thwacking Auto-Hammer"
+  },
+  {
+   "file": "s065.json",
+   "count": 500,
+   "from": "Turbocharged Escape",
+   "to": "Unruly Catapult"
+  },
+  {
+   "file": "s066.json",
+   "count": 500,
+   "from": "Unruly Krasis",
+   "to": "Verdant Eidolon"
+  },
+  {
+   "file": "s067.json",
+   "count": 500,
+   "from": "Verdant Embrace",
+   "to": "Voltaic Brawler"
+  },
+  {
+   "file": "s068.json",
+   "count": 500,
+   "from": "Voltaic Construct",
+   "to": "Way of the Wildspeaker"
+  },
+  {
+   "file": "s069.json",
+   "count": 500,
+   "from": "Wayfarer's Bauble",
+   "to": "Winter's Night"
+  },
+  {
+   "file": "s070.json",
+   "count": 500,
+   "from": "Winter's Rest",
+   "to": "You Find a Cursed Idol"
+  },
+  {
+   "file": "s071.json",
+   "count": 276,
+   "from": "You Find Some Prisoners",
+   "to": "\u00d3in the Brave"
+  }
+ ],
+ "notes": "Lazy-load shards + compact catalog for item 16. Power 9 proxies flagged; active decks counted as owned (item 19)."
+}
