@@ -1,9 +1,9 @@
 {
- "ts": "2026-11-25T19:15:47-0500",
+ "ts": "2026-11-25T19:49:01-0500",
  "source": "existing",
  "cards": 35776,
  "owned_nonzero": 6454,
- "in_decks": 5216,
+ "in_decks": 5209,
  "tested": 3453,
  "shard_size": 500,
  "shards": [
