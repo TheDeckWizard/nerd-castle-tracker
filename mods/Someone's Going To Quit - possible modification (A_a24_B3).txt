@@ -1,0 +1,108 @@
+// Possible modification of: Someone's Going To Quit (My Active Decks)
+// Test key: A_a24_B3   generated 2026-11-26T00:08:18-0500
+// Bracket 3 copy vs your list: in elspeth, storm slayer, cultivate, garruk's uprising; out ajani vengeant, armageddon, impending disaster
+// Status: testing  pass 1  candidates tested 0
+
+// Commander
+1 Child of Alara
+
+// Deck
+1 Abrade
+1 Accomplished Alchemist
+1 Aetheric Amplifier
+1 Elspeth, Storm Slayer
+1 All-Fates Scroll
+1 Anarchy
+1 Arcane Signet
+1 Cultivate
+1 Assassinate
+1 Austere Command
+1 Back to Nature
+1 Bane of Progress
+1 Barren Glory
+1 Bearer of the Heavens
+1 Bladebrand
+1 Blood Money
+1 Blood on the Snow
+1 Boil
+1 Boiling Rock Prison
+1 Boiling Seas
+1 Bontu's Last Reckoning
+1 Calming Verse
+1 Chromatic Lantern
+1 Citywide Bust
+1 Cleanfall
+1 Cleansing Nova
+1 Corpse Churn
+1 Creeping Corrosion
+1 Crux of Fate
+1 Darksteel Garrison
+1 Darksteel Ingot
+1 Dawn to Dusk
+1 Day of Judgment
+1 Death Begets Life
+1 Demonic Consultation
+1 Didn't Say Please
+1 Dimension X
+1 Epic Struggle
+1 Exterminatus
+1 Felidar Sovereign
+1 Fields of Strife
+1 Final Act
+1 Flashfires
+1 Foot Headquarters
+1 Forum of Amity
+1 Fracturing Gust
+1 Fumigate
+1 Grim Giganotosaurus
+1 Helping Hand
+1 Hush
+1 Hythonia the Cruel
+1 Illegitimate Business
+1 Garruk's Uprising
+1 Iridian Maelstrom
+1 Jaya Ballard, Task Mage
+1 Kaya, Geist Hunter
+1 Laboratory Maniac
+1 Lantern of Revealing
+1 Liliana's Talent
+1 Liliana, Death Wielder
+1 Llanowar Loamspeaker
+1 Mistvault Bridge
+1 Mutant Town
+1 Nature's Chant
+1 Nature's Ruin
+1 Nevinyrral's Disk
+1 Nevinyrral, Urborg Tyrant
+1 Norritt
+1 Novablast Wurm
+1 Obliterate
+1 Ogre Siegebreaker
+1 Paradox Gardens
+1 Paraselene
+1 Perish
+1 Planar Cleansing
+1 Prismite
+1 Razortide Bridge
+1 Reckless Air Strike
+1 Regenesis
+1 Repel Calamity
+1 Requisition Raid
+1 Rustvale Bridge
+1 Sanguine Indulgence
+1 Silverbluff Bridge
+1 Singularity Rupture
+1 Slagwoods Bridge
+1 Smothering Tithe
+1 Sol Ring
+1 Spectacle Summit
+1 Spellkeeper Weird
+1 Supreme Verdict
+1 Swift Reckoning
+1 TCRI Building
+1 Takklemaggot
+1 Tanglepool Bridge
+1 Tranquility
+1 Tsunami
+1 Typhoid Rats
+1 Vivien, Champion of the Wilds

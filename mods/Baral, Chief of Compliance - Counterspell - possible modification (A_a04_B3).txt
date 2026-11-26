@@ -1,0 +1,85 @@
+// Possible modification of: Baral, Chief of Compliance - Counterspell (My Active Decks)
+// Test key: A_a04_B3   generated 2026-11-26T00:08:18-0500
+// Bracket 3 copy vs your list: in roaming throne, rapid hybridization, solemn simulacrum; out consecrated sphinx, mystical tutor, thassa's oracle
+// Status: testing  pass 1  candidates tested 0
+
+// Commander
+1 Baral, Chief of Compliance
+
+// Deck
+1 An Offer You Can't Refuse
+1 Arcane Denial
+1 Archaeomancer
+1 Archmage Emeritus
+1 Archmage's Charm
+1 Blue Sun's Zenith
+1 Brainstorm
+1 Bruvac the Grandiloquent
+1 Castle Vantress
+1 Cephalid Coliseum
+1 Roaming Throne
+1 Consider
+1 Counterspell
+1 Cryptic Command
+1 Cyclonic Rift
+1 Delay
+1 Disallow
+1 Dissipate
+1 Dissolve
+1 Exhibition Tidecaller
+1 Fierce Guardianship
+1 Flusterstorm
+1 Folio of Fancies
+1 Force of Negation
+1 Hall of Storm Giants
+1 Hedron Crab
+1 High Tide
+1 Impulse
+5 Island
+5 Island
+5 Island
+5 Island
+3 Island
+4 Island
+3 Island
+1 Jace Beleren
+1 Jace's Sanctum
+1 Jace, Unraveler of Secrets
+1 Laboratory Maniac
+1 Maddening Cacophony
+1 Mana Drain
+1 Mechanized Production
+1 Memory Lapse
+1 Mental Misstep
+1 Mesmeric Orb
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Rapid Hybridization
+1 Negate
+1 Ojer Pakpatiq, Deepest Epoch
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Ponder
+1 Preordain
+1 Propaganda
+1 Psychic Corrosion
+1 Psychosis Crawler
+1 Reliquary Tower
+1 Remand
+1 Rewind
+1 Rhystic Study
+1 Riverchurn Monument
+1 Ruin Crab
+1 Sapphire Medallion
+1 Snapcaster Mage
+1 Sol Ring
+1 Spell Pierce
+1 Swan Song
+1 Tasha's Hideous Laughter
+1 Solemn Simulacrum
+1 The Mindskinner
+1 The Water Crystal
+1 Thought Vessel
+1 Triskaidekaphile
+1 Unwind
+1 Wavebreak Hippocamp
